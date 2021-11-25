@@ -17,7 +17,7 @@ function Navbar(props) {
             {/* Navbar section */}
             <nav className="navbar navbar-expand-sm navbar-light bg-white border-bottom">
                 <Link className="navbar-brand ml-2 font-weight-bold" to="/">
-                    <span className="burgundy">CWZ</span><span className="orange">Sell</span>
+                    <span className="burgundy">edrop</span><span className="orange">Sell</span>
                 </Link>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor" aria-controls="navbarColor" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon" />

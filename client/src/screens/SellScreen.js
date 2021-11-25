@@ -8,7 +8,7 @@ function SellScreen({ history }) {
         title: '',
         about: '',
         img: '',
-        price: 9,
+        price:'',
     });
 
 
